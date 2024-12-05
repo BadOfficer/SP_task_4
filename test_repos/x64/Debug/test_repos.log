@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test.cpp
+D:\SP_task_4\stringProcessor.h(13,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+  test_repos.vcxproj -> D:\SP_task_4\x64\Debug\test_repos.exe
